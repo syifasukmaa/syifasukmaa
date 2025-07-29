@@ -2,17 +2,7 @@
 
 ###
 
-<p align="left">My name is Syifa Sukma Ramadhani and I'm a Student College from STT Terpadu Nurul Fikri</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 I'm currently learning Full-Stack Web Development<br>🎯 Goals: Full-Stack Developer</p>
-
-###
+<p align="left">My name is Syifa Sukma Ramadhani and Fresh Graduate Information System at STT Terpadu Nurul Fikri</p>
 
 ###
 
