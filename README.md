@@ -1,26 +1,18 @@
-
-
-
-
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=440&lines=Frontend+%7C+Backend+Developer;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
-###
-
 ## 🧑‍💻 About Me
 
 ```yaml
 name        : Syifa Sukma Ramadhani
-education   : Sekolah Tinggi Teknologi Terpadu Nurul Fikri
-degree      : Information System (Fresh Graduate)
 focus       : Frontend & Backend Web Development
-stack       :
-  - Frontend  : TypeScript, React, Vue, Next.js, shadcn/ui, TailwindCSS
-  - Backend   : Node.js, NestJS, PostgreSQL
-  - Tools     : Docker, Git, GitHub
 contact     : syifasukmawork@gmail.com
 ```
+###
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Frontend+%7C+Backend+Developer;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
+
+
 
 ## 🌐 Frontend Development
 
@@ -111,7 +103,5 @@ contact     : syifasukmawork@gmail.com
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=syifasukmaa&show_icons=true&theme=dark&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syifasukmaa&theme=dark&hide_border=true" height="165" alt="GitHub Streak" />
-</div>
+  </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syifasukmaa&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Languages" />
