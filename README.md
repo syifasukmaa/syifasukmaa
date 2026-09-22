@@ -12,7 +12,6 @@
 
 ```yaml
 name        : Syifa Sukma Ramadhani
-location    : Indonesia 🇮🇩
 education   : Sekolah Tinggi Teknologi Terpadu Nurul Fikri
 degree      : Information System (Fresh Graduate)
 focus       : Frontend & Backend Web Development
@@ -20,7 +19,7 @@ stack       :
   - Frontend  : TypeScript, React, Vue, Next.js, shadcn/ui, TailwindCSS
   - Backend   : Node.js, NestJS, PostgreSQL
   - Tools     : Docker, Git, GitHub
-contact     : your-email@gmail.com
+contact     : syifasukmawork@gmail.com
 ```
 
 ## 🌐 Frontend Development
